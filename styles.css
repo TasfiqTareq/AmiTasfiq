@@ -1,0 +1,30 @@
+/*****BODY SELECTORS*******/
+
+body {
+    background-color: #e3fdfd;
+    font-family: cursive;
+}
+
+/*****TAG SELECTORS*******/
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 12%;
+}
+
+h1 {
+    color: #79a3b1;
+    font-size: 50px;
+}
+
+h3 {
+    color: #456268;
+}
+
+.fblink:hover{
+    color: white ;
+background-color: teal;
+}
